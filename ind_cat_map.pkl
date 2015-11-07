@@ -1,0 +1,23 @@
+(dp0
+I0
+S'Rare diseases\n'
+p1
+sI1
+S'Infectious diseases\n'
+p2
+sI2
+S'Cancer\n'
+p3
+sI3
+S'Congenital disorders\n'
+p4
+sI4
+S'Organs (anatomy)\n'
+p5
+sI5
+S'Machine learning algorithms\n'
+p6
+sI6
+S'Medical devices\n'
+p7
+s.
