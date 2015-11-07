@@ -4,7 +4,7 @@ A simple package for scraping Wikipedia pages from particular categories and bui
 
 ## Usage
 
-- scrape_and_build.py
+#### scrape_and_build.py
 
 This file will scrape wikipedia pages from categories specified in a text file and build a classifier from them.
 If you haven't downloaded the data already, you can run 
@@ -17,8 +17,8 @@ If you've already run scraping, you can simply run
 
 to rebuild the classifier.
 
-- classify.py
-- 
+#### classify.py
+
 This file takes a url and prints out the probabilities of belonging to categories specified in the classifier building above. You can run this with
 
 `python classify.py --url=http://www.blah.com`
