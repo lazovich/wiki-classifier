@@ -21,6 +21,6 @@ to rebuild the classifier.
 
 This file takes a url and prints out the probabilities of belonging to categories specified in the classifier building above. You can run this with
 
-`python classify.py --url=http://www.blah.com`
+`python classify.py --url='http://www.blah.com'`
 
 You can also specify which classifier file to use with the `--classifier` option.
